@@ -5,3 +5,4 @@
 - npm install -g json-server
 - npm install tailwindcss @tailwindcss/vite
 - npm install @reduxjs/toolkit react-redux
+  npm install react-toastify
