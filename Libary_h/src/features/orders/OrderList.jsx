@@ -53,7 +53,7 @@ const OrderList = () => {
                     </Link>
                 </div>
 
-                <div className="grid gap-4">
+                <div className="grid gap-4 grid-cols-3">
                     {filteredOrders.map((order) => (
                         <OrderCard key={order.id} order={order} onDelete={handleDelete} />
                     ))}
