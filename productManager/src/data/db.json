@@ -1,0 +1,81 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Bún bò huế",
+      "image": "bunbo.jpg",
+      "price": 60000,
+      "description": "Món ngon đậm vị từ Huế, không thể bỏ qua"
+    },
+    {
+      "id": "2",
+      "name": "Phở bò",
+      "image": "pho.jpg",
+      "price": 60000,
+      "description": "Phở bò truyền thống với nước dùng thơm ngon, hấp dẫn"
+    },
+    {
+      "id": "3",
+      "name": "Cơm tấm sườn",
+      "image": "comtam.jpg",
+      "price": 50000,
+      "description": "Cơm tấm Sài Gòn với sườn nướng đậm đà"
+    },
+    {
+      "id": "4",
+      "name": "Gỏi cuốn",
+      "image": "goicuon.jpg",
+      "price": 30000,
+      "description": "Gỏi cuốn tươi mát, ăn kèm nước chấm tuyệt vời"
+    },
+    {
+      "id": "5",
+      "name": "Bánh mì đặc biệt",
+      "image": "banhmi.jpg",
+      "price": 55000,
+      "description": "Bánh mì Việt Nam giòn rụm, đầy ắp nhân"
+    },
+    {
+      "id": "6",
+      "name": "Hủ tiếu Nam Vang",
+      "image": "hutieu.jpg",
+      "price": 45000,
+      "description": "Hủ tiếu Nam Vang với topping phong phú, nước súp ngọt thanh"
+    },
+    {
+      "id": "7",
+      "name": "Mì Quảng",
+      "image": "miquang.jpg",
+      "price": 50000,
+      "description": "Mì Quảng miền Trung đặc trưng, hấp dẫn"
+    },
+    {
+      "id": "8",
+      "name": "Bánh xèo",
+      "image": "banhxeo.jpg",
+      "price": 40000,
+      "description": "Bánh xèo vàng giòn, ăn kèm rau sống tươi ngon"
+    },
+    {
+      "id": "9",
+      "name": "Chả giò",
+      "image": "chagio.jpg",
+      "price": 35000,
+      "description": "Chả giò chiên giòn, nhân thơm ngon, hấp dẫn"
+    },
+    {
+      "id": "10",
+      "name": "Bún chả Hà Nội",
+      "image": "buncha.jpg",
+      "price": 55000,
+      "description": "Bún chả thơm lừng, vị Bắc truyền thống"
+    },
+    {
+      "id": "11",
+      "name": "Xôi gà",
+      "image": "xoiga.jpg",
+      "price": 30000,
+      "description": "Xôi gà mềm dẻo, thịt gà đậm đà"
+    }
+  ]
+}
